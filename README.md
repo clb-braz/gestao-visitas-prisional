@@ -138,13 +138,11 @@ A aplicação utiliza Basic Auth para autenticação e autorização. Os endpoin
 - ROLE_AGENTE: Acesso de leitura e algumas operações específicas
 - ROLE_VISITANTE: Acesso limitado às suas próprias visitas
 
-## Suporte
 
-Para suporte, envie um email para carlos.braz@seap.gov.br
 
-## Licença
+Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 Autor
 
